@@ -1,8 +1,19 @@
-# 08Lab
+# This is an h1 tag
+## This is an h2 tag
+###### This is an h6 tag
 
-<h1>Hello</h1>
-<h2>Hello</h2>
-<h3>Hello</h3>
-<h4>Hello</h4>
+**This text will be bold**
+*This text will be italic*
 
-###Hello
+This is Unbordered list:
+* Item 1
+* Item 2
+  * Item 2a
+ 
+    ```javascript
+
+    let src = 'this is something';
+
+    ```
+      .[This is link](https://youtube.com)
+      ![This is image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcAOQOXpz3-LzbrnJJkZnn5jejcz7HPJyAkw&s)
